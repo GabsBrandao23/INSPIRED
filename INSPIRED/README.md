@@ -4,7 +4,7 @@ A text-based RPG battle game developed in Java, where players choose a hero and 
 
 ## About the Project
 
-*The Ancient Dragon* is a console-based RPG developed as an Object-Oriented Programming (OOP) project. The game combines character selection, dice-based combat, defensive abilities, and status effects in a fantasy adventure.
+*INSPIRED* is a console-based RPG developed as an Object-Oriented Programming (OOP) project. The game combines character selection, dice-based combat, defensive abilities, and status effects in a fantasy adventure.
 
 The player's mission is to choose a hero, use their unique abilities strategically, and defeat the dragon threatening the kingdom.
 
@@ -73,7 +73,7 @@ The combat system also includes defensive actions, status effects, and character
 The project is organized into classes, each responsible for a specific part of the game.
 
 ```text
-The-Ancient-Dragon/
+INSPIRED/
 ├── Main.java
 ├── Battle.java
 ├── TextUI.java
@@ -106,16 +106,12 @@ The-Ancient-Dragon/
 
 ### Running the Game
 
-1. Clone the repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
+1. Clone the repository
 
 2. Navigate to the project directory:
 
    ```bash
-   cd The-Ancient-Dragon
+   cd INSPIRED
    ```
 
 3. Compile the Java files:
@@ -167,7 +163,3 @@ Potential improvements include:
 ## Author
 
 Developed as a Java Object-Oriented Programming project.
-
----
-
-*Choose your hero. Face the beast. Become a legend.*
